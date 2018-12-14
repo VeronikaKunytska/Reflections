@@ -3,4 +3,6 @@ A: The remote repository can be useful when several people are working on the pr
    when one user works on several machines. Another reason to use remote is when you want to share your work with others
    get feedback.
    
+Q:Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A:Because you might want only some changes to be present at your local machine, for example you are developing smth on your local machine and do not want to apply changes from remote yet
    
