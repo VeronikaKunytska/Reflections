@@ -5,4 +5,7 @@ A: The remote repository can be useful when several people are working on the pr
    
 Q:Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A:Because you might want only some changes to be present at your local machine, for example you are developing smth on your local machine and do not want to apply changes from remote yet
+
+Q:Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A:Fork is copy of GitHub remote, the copy is also stored in GitHub. Clone is copy of the repository to the local machine. Brache is where all commits historicaly saved. You would use Fork when you need a copy of the repository online on GitHub, while if you only need local copy then you would use clone, and branches are used when the new commits added to the history and also to have several different ways of development, features. 
    
