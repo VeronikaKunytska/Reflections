@@ -11,3 +11,6 @@ A:Fork is copy of GitHub remote, the copy is also stored in GitHub. Clone is cop
 
 Q:What is the benefit of having a copy of the last known state of the remote stored locally?
 A:One of the benefits is that everyone can modify the programm without internet connectios. Additionaly, if a lot of people will work on the project everyone can download the last availible state of the file and modify it.   
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I would use some chat programms such as skype to discuss code and changes and send the progra,, by email or post it in the cloud. Communicating through emails will be harder in terms of knowing the changes and seeing all of the previously done commits, however it will be easier for people who do not know Git. 
