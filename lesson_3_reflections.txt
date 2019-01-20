@@ -14,3 +14,6 @@ A:One of the benefits is that everyone can modify the programm without internet 
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I would use some chat programms such as skype to discuss code and changes and send the progra,, by email or post it in the cloud. Communicating through emails will be harder in terms of knowing the changes and seeing all of the previously done commits, however it will be easier for people who do not know Git. 
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: I would want to make changes in a separate branch when the changes might not be included in the final code and in case there are several people working on the same programm. The benefit of having 1 brach is that you do not need to first pull to your local machine and then merge branches together, while with having several braches there are several people who can work on the same part of the code and then merge it together or do not include changes at all. 
